@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851211807679",
+    "project_id": "palmapps-fe3e1",
+    "storage_bucket": "palmapps-fe3e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851211807679:android:412159a3dda15e465b4f0a",
+        "android_client_info": {
+          "package_name": "com.palmapps.ohdiosanai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAPnVCUyuaaUvIn9MF2EYH5-P8dKKEAj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
